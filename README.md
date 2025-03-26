@@ -1,2 +1,17 @@
-# Machine-Learning-Assignment
-In this Repository, i have created a deep dive into decision tree analysis of 'FIFA 20' dataset which is created for the threshold of national team players selection criteria.
+# Predicting National Team Selection Using Random Forest
+
+This tutorial demonstrates how to use a Random Forest Classifier to predict whether a football player is likely to be selected for the national team based on attributes like pace, passing, defending, etc.
+
+## Files Included
+- `Machine-Learning-Assignment.ipynb` – Full Python notebook with code
+- `Tutorial.pdf` – Written tutorial explaining the technique
+- `LICENSE` – License for use
+- `requirements.txt` – Python packages used (optional)
+
+## How to Run
+1. Clone the repository
+2. Open the notebook in Jupyter
+3. Run all cells
+
+## Dataset
+FIFA 20 players dataset
