@@ -4,7 +4,7 @@ This tutorial demonstrates how to use a Random Forest Classifier to predict whet
 
 ## Files Included
 - `Machine Learning Assignment.ipynb` – Full Python notebook with code
-- `Machine Learning Assignment-Tutorial.pdf` – Written tutorial explaining the technique
+- `Machine Learning Assignment Tutorial.pdf` – Written tutorial explaining the technique
 - `LICENSE` – License for use
 
 ## How to Run
